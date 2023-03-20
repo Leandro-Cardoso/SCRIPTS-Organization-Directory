@@ -1,0 +1,29 @@
+# My files:
+steps.txt
+
+# VS Code:
+.vscode/
+
+# Python:
+__pycahe__/
+#*.py[cod]
+#*$py.class
+
+# Enviroment:
+venv/
+*.env
+
+# Django:
+#*.log
+#*.pot
+*.pyc
+#media
+
+# Flask:
+*.flaskenv
+
+# Database SQL:
+db.sqlite3
+
+# Backup:
+#*.bak
