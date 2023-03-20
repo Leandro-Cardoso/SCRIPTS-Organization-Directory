@@ -1,4 +1,4 @@
-# Lists Organizer Script
+# Directory Organizer Script
 
 ### [🔑 MIT License](https://github.com/Leandro-Cardoso/SCRIPTS-Organization-Directory/blob/master/LICENSE)
 
