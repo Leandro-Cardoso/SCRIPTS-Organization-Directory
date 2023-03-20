@@ -18,14 +18,14 @@ This simple script organizes your directory, generating new organized subdirecto
 
 ### ⚙️ Features:
 > Finished features:
-1. 🟢 No features ⚙️✔️
+1. 🟢 Config file `.json` ⚙️✔️
 > Under development features:
-2. 🟡 Config file `.json` ⚙️🔨
-3. 🟡 Organize images in a images directory (png, jpg, jpeg, gif, svg) ⚙️🔨
-4. 🟡 Organize texts in a texts directory (txt, pdf, doc, csv, ...) ⚙️🔨
-5. 🟡 Organize `.exe` in a apps directory ⚙️🔨
-6. 🟡 Organize audios in a audios directory (mp3, ...) ⚙️🔨
-7. 🟡 Organize videos in a videos directory ⚙️🔨
+2. 🟡 Organize images in a images directory (png, jpg, jpeg, gif, svg) ⚙️🔨
+3. 🟡 Organize texts in a texts directory (txt, pdf, doc, csv, ...) ⚙️🔨
+4. 🟡 Organize `.exe` in a apps directory ⚙️🔨
+5. 🟡 Organize audios in a audios directory (mp3, ...) ⚙️🔨
+6. 🟡 Organize videos in a videos directory ⚙️🔨
+7. 🟡 Organize subdirectories ⚙️🔨
 > Possible new features:
 * ⚫ Graphic interface ⚙️
 * ⚫ Executable file ⚙️
