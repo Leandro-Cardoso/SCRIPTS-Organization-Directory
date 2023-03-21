@@ -23,8 +23,8 @@ This simple script organizes your directory, generating new organized subdirecto
 3. 🟢 Organize texts files in a texts directory ⚙️✔️
 4. 🟢 Organize apps files in a apps directory ⚙️✔️
 5. 🟢 Organize audios files in a audios directory ⚙️✔️
+6. 🟢 Organize videos files in a videos directory ⚙️✔️
 > Under development features:
-6. 🟡 Organize videos in a videos directory ⚙️🔨
 7. 🟡 Organize subdirectories ⚙️🔨
 > Possible new features:
 * ⚫ Graphic interface ⚙️

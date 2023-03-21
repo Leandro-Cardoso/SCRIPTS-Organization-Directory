@@ -37,3 +37,4 @@ for file in files:
     # IS AUDIO?:
     mkdir_and_replace(formats = configs['audio_formats'], file = file, directory_path = directory_path, directory_name = configs['audio_directory_name'])
     # IS VIDEO?:
+    mkdir_and_replace(formats = configs['video_formats'], file = file, directory_path = directory_path, directory_name = configs['video_directory_name'])
