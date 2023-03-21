@@ -33,5 +33,6 @@ for file in files:
     # IS TEXT?:
     mkdir_and_replace(formats = configs['text_formats'], file = file, directory_path = directory_path, directory_name = configs['text_directory_name'])
     # IS APP?:
+    mkdir_and_replace(formats = configs['app_formats'], file = file, directory_path = directory_path, directory_name = configs['app_directory_name'])
     # IS AUDIO?:
     # IS VIDEO?:
