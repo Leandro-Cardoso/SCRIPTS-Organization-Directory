@@ -1,5 +1,9 @@
 {
     "directory_path" : "C:\\Users\\Leandro Cardoso\\Downloads",
     "image_formats" : ["jpg", "jpeg", "png", "gif", "bmp", "tif", "tiff", "jpe", "jfif", "raw", "exif", "eps", "psd", "svg", "webp"],
-    "image_directory_name" : "images"
+    "image_directory_name" : "images",
+    "text_formats" : ["pdf", "txt", "rtf", "doc", "docx", "ppt", "pptx", "pps", "xml", "xlm", "xls", "xlsm", "xlsb", "xlsx", "md", "csv", "tsv"],
+    "text_directory_name" : "texts",
+    "audio_formats" : ["mp3", "wav", "mid"],
+    "video_formats" : ["mp4", "avi", "mpg", "wmv", "mov"]
 }

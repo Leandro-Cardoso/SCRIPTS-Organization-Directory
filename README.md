@@ -19,9 +19,9 @@ This simple script organizes your directory, generating new organized subdirecto
 ### ⚙️ Features:
 > Finished features:
 1. 🟢 Config file `.json` ⚙️✔️
-2. 🟢 Organize images in a images directory ⚙️✔️
+2. 🟢 Organize images files in a images directory ⚙️✔️
+3. 🟢 Organize texts files in a texts directory ⚙️✔️
 > Under development features:
-3. 🟡 Organize texts in a texts directory (txt, pdf, doc, csv, ...) ⚙️🔨
 4. 🟡 Organize `.exe` in a apps directory ⚙️🔨
 5. 🟡 Organize audios in a audios directory (mp3, ...) ⚙️🔨
 6. 🟡 Organize videos in a videos directory ⚙️🔨
