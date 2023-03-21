@@ -1,3 +1,5 @@
 {
-    "directory_path" : "C:/Users/Leandro Cardoso/Downloads"
+    "directory_path" : "C:\\Users\\Leandro Cardoso\\Downloads",
+    "image_formats" : ["jpg", "jpeg", "png", "gif", "bmp", "tif", "tiff", "jpe", "jfif", "raw", "exif", "eps", "psd", "svg", "webp"],
+    "image_directory_name" : "images"
 }
