@@ -10,9 +10,9 @@
     "app_formats" : ["exe", "apk", "deb"],
     "app_directory_name" : "apps",
 
-    "audio_formats" : ["mp3", "wav", "mid"],
+    "audio_formats" : ["mp3", "wav", "wave", "mid", "aiff", "aif", "aifc", "pcm", "au", "l16", "flac", "alac", "m4a", "caf", "wma", "ogg", "oga", "mogg", "aac", "m4r"],
     "audio_directory_name" : "audios",
 
-    "video_formats" : ["mp4", "avi", "mpg", "wmv", "mov"],
+    "video_formats" : ["mp4", "avi", "mpg", "wmv", "mov", "qt", "mkv", "flv", "swf", "m4v", "mst", "mpeg", "3gp", "insv", "m2ts"],
     "video_directory_name" : "videos"
 }

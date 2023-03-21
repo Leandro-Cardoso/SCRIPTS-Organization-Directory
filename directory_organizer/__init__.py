@@ -35,4 +35,5 @@ for file in files:
     # IS APP?:
     mkdir_and_replace(formats = configs['app_formats'], file = file, directory_path = directory_path, directory_name = configs['app_directory_name'])
     # IS AUDIO?:
+    mkdir_and_replace(formats = configs['audio_formats'], file = file, directory_path = directory_path, directory_name = configs['audio_directory_name'])
     # IS VIDEO?:
